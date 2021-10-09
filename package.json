@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "A page to save notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified for this app\" && exit1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjunior1/note-taker.git"
+  },
+  "author": "Franklyn Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjunior1/note-taker/issues"
+  },
+  "homepage": "https://github.com/fjunior1/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
