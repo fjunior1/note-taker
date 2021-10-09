@@ -1,0 +1,22 @@
+/* note taker page stylesheet*/
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+/* for mobile */
+ @media only screen and (max-width:645px) {
+ .delete-note {
+   padding: 0 !important;
+   width: 80px !important;
+  height: 25px !important;
+ }
+ .list-group-item{
+  padding: 0.75rem .75rem;
+ }
+
+ div .col-4,.col-8{
+   padding: 5px;
+ }
+} 

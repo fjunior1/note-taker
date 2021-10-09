@@ -13,6 +13,7 @@ this application is develop using express. It saves and retrieves notes form a c
 - [USAGE](#usage)
 - [SCREENSHOTS](#screenshots)
 - [LINKS](#links)
+- [EXAMPLES](#Examples)
 
 ## ACCEPTANCE CRITERIA
 GIVEN a note-taking application  
@@ -52,11 +53,31 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 2) Click on the Start button
 3) the notes will be on the left side
 4) it you click on a note it will show it on the right pane
-5) To add a note click on the plus sign "+"
-6) To delete a note click on the garbage can icon.
+5) To add a note click on "new", add the title and test and then click on the "save" button
+6) To delete a note click on the delete button.
 
 ## SCREENSHOTS
 
 
 ## LINKS
 This [https://github.com/fjunior1/Note-Taker](https://github.com/fjunior1/Note-Taker)
+
+## EXAMPLES
+
+screenshot of init page  
+![Alt text](./assets/scr_pc.jpg?raw=true "screenshot of init on PC")  
+
+screenshot of init page mobile  
+![Alt text](./assets/scr_pc.jpg?raw=true "screenshot of init on mobie")  
+
+screenshot of editing page  
+![Alt text](./assets/scr_pc.jpg?raw=true "screenshot of editing on PC")  
+
+screenshot of editing page mobile  
+![Alt text](./assets/scr_pc.jpg?raw=true "screenshot of editing on mobie") 
+
+screenshot of final page  
+![Alt text](./assets/scr_pc.jpg?raw=true "screenshot of final on PC")  
+
+screenshot of final page mobile  
+![Alt text](./assets/scr_pc.jpg?raw=true "screenshot of final on mobie") 

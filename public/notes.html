@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Note Taker</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.1.3/flatly/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+
+  <body>
+    <nav class="navbar navbar-light bg-light justify-content-between">
+      <span class="navbar-brand display-2">Note Taker Application</span>
+      <form class="form-inline">
+        <button class="btn btn-outline-success my-2 my-sm-0 mr-1 save" onclick="handleNoteSave()" disabled> Save</button>
+        <button class="btn btn-outline-success my-2 my-sm-0 ml-1 new" onclick="handleNewNote()" > New </button>
+      </form>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-4 list-container">
+          <div class="card">
+            <ul class="list-group"></ul>
+          </div>
+        </div>
+
+        <div class="col-8 d-flex align-items-start flex-column">
+          <div class="p-2 container-fluid">
+            <input class="title p-2 container-fluid" maxlength="40" placeholder="Title" type="text" />
+          </div>
+          <div class="p-2 container-fluid">
+            <textarea class="text container-fluid"  placeholder="Note Text" ></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/assets/js/index.js"></script>
+  </body>
+</html>
