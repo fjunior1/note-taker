@@ -1,9 +1,9 @@
 # note-taker
-This is an applicaiton to save and retrieve notes
+This is an application to save and retrieve notes
 
 
 ## DESCRIPTION
-this application is develop using express. It saves and retrieves notes form a central repository.
+This application is develop using express. It saves and retrieves notes form a central repository. The notes are shown on the left and the right side is used to add new notes or show the ones already saved.
 
 
 ## TABLE OF CONTENTS
@@ -39,7 +39,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## INSTALLATION
 1) Clone the repo from []() to your local machine.  
 2) install node if ou have not done it yet from [node install](https://nodejs.org/en/download/)  
-3)reastart you rterminal and type "node" and ENTER, you should see a message like the one below:  
+3)restart your terminal and type "node" and ENTER, you should see a message like the one below:  
             Welcome to Node.js v14.17.0.  
             Type ".help" for more information.  
             >   
