@@ -30,16 +30,16 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## INSTALLATION
-1) Clone the repo from []() to your local machine.
-2) install node if ou have not done it yet from [node install](https://nodejs.org/en/download/) 
-3)reastart you rterminal and type "node" and ENTER, you should see a message like the one below:
-            Welcome to Node.js v14.17.0.
-            Type ".help" for more information.
-            > 
- 4) Install express and UUID by typing the following command in the terminal:
-            "npm install express"
-            "npm install uuid"
-
+1) Clone the repo from []() to your local machine.  
+2) install node if ou have not done it yet from [node install](https://nodejs.org/en/download/)  
+3)reastart you rterminal and type "node" and ENTER, you should see a message like the one below:  
+            Welcome to Node.js v14.17.0.  
+            Type ".help" for more information.  
+            >   
+ 4) Install express and UUID by typing the following command in the terminal:  
+            "npm install express"  
+            "npm install uuid"  
+  
 ## USAGE
 1) on the terminal in the main folder of the application type "node index.js" and ENTER 
 2) Click on the Start button
