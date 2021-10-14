@@ -78,3 +78,4 @@ screenshot of final page mobile
 
 ## LINKS
 This [https://github.com/fjunior1/Note-Taker](https://github.com/fjunior1/Note-Taker)
+Deployed application [https://notetaker1092021.herokuapp.com/](https://notetaker1092021.herokuapp.com/)
