@@ -13,7 +13,7 @@ This application is develop using express. It saves and retrieves notes form a c
 - [USAGE](#usage)
 - [LINKS](#links)
 - [SCREENSHOTS](#screenshots)
-- 
+
 ## ACCEPTANCE CRITERIA
 GIVEN a note-taking application  
 WHEN I open the Note Taker  
