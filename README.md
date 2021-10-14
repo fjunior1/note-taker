@@ -11,9 +11,9 @@ This application is develop using express. It saves and retrieves notes form a c
 - [ACCEPTANCE CRITERIA](#acceptance-criteria)
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
-- [SCREENSHOTS](#screenshots)
 - [LINKS](#links)
-
+- [SCREENSHOTS](#screenshots)
+- 
 ## ACCEPTANCE CRITERIA
 GIVEN a note-taking application  
 WHEN I open the Note Taker  
@@ -55,6 +55,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 5) To add a note click on "new", add the title and test and then click on the "save" button
 6) To delete a note click on the delete button.
 
+
+## LINKS
+This [https://github.com/fjunior1/Note-Taker](https://github.com/fjunior1/Note-Taker)  
+Deployed application [https://notetaker1092021.herokuapp.com/](https://notetaker1092021.herokuapp.com/)  
+
 ## SCREENSHOTS
 
 screenshot of init page  
@@ -76,6 +81,4 @@ screenshot of final page mobile
 ![Alt text](./assets/final-mobile.jpg?raw=true "screenshot of final on mobie") 
 
 
-## LINKS
-This [https://github.com/fjunior1/Note-Taker](https://github.com/fjunior1/Note-Taker)
-Deployed application [https://notetaker1092021.herokuapp.com/](https://notetaker1092021.herokuapp.com/)
+
